@@ -9,8 +9,9 @@ Main purpose of this shader is creating black hold effect.
 
 ![Alt text](/docs/images/BlackHole.jpeg)
 
-[Sample test clip1] https://www.youtube.com/watch?v=da-74txuJDQ    
-[Sample test clip2] https://www.youtube.com/watch?v=6bfs5Z2Qo_E  
+[Sample test clip1] https://www.youtube.com/watch?v=_i59roDsrSY
+[Sample test clip2] https://www.youtube.com/watch?v=da-74txuJDQ    
+[Sample test clip3] https://www.youtube.com/watch?v=6bfs5Z2Qo_E  
 
 # License
 
