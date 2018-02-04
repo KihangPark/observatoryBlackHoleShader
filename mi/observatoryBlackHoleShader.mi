@@ -1,8 +1,8 @@
 declare shader
     color "observatoryBlackHoleShader" (
-        scalar "transparency", #: shortname "t" default .0
-        scalar "radius", #: shortname "r" default 0.5
-        boolean "debug" #: shortname "d" default off
+        scalar "transparency",  #: shortname "t" default .0
+        scalar "radius",        #: shortname "r" default 0.5
+        boolean "debug"         #: shortname "d" default off
     )
     version 1
     apply material
